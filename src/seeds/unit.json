@@ -1,0 +1,19 @@
+{
+    "mileage": "km",
+    "Combined Fuel Consumption": "L/100km",
+    "Horsepower": "Hp",
+    "Engine Size": "L",
+    "Torque": "Nm",
+    "Power to Weight Ratio": "Hp/t",
+    "0-100 km/h": "s",
+    "1/4 Mile": "s",
+    "Fuel Tank Capacity": "L",
+    "Approximated Range": "km",
+    "Length": "m",
+    "Width": "m",
+    "Height": "m",
+    "Wheelbase": "m",
+    "Turning Circle": "m",
+    "Curb Weight": "kg",
+    "Boot Capacity": "L"
+}

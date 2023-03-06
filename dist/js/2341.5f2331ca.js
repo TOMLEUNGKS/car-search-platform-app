@@ -1,0 +1,5 @@
+"use strict";(self["webpackChunkionic_car_trading"]=self["webpackChunkionic_car_trading"]||[]).push([[2341],{2341:function(n,r,t){t.r(r),t.d(r,{c:function(){return o},g:function(){return c},h:function(){return i},o:function(){return a}});var u=t(655),i=function(n,r){return null!==r.closest(n)},o=function(n,r){var t;return"string"===typeof n&&n.length>0?Object.assign((t={"ion-color":!0},t["ion-color-".concat(n)]=!0,t),r):r},e=function(n){if(void 0!==n){var r=Array.isArray(n)?n:n.split(" ");return r.filter((function(n){return null!=n})).map((function(n){return n.trim()})).filter((function(n){return""!==n}))}return[]},c=function(n){var r={};return e(n).forEach((function(n){return r[n]=!0})),r},f=/^[a-z][a-z0-9+\-.]*:/,a=function(n,r,t,i){return(0,u.mG)(void 0,void 0,void 0,(function(){var o;return(0,u.Jh)(this,(function(u){return null!=n&&"#"!==n[0]&&!f.test(n)&&(o=document.querySelector("ion-router"),o)?(null!=r&&r.preventDefault(),[2,o.push(n,t,i)]):[2,!1]}))}))};
+/*!
+ * (C) Ionic http://ionicframework.com - MIT License
+ */}}]);
+//# sourceMappingURL=2341.5f2331ca.js.map

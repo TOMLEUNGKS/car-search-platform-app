@@ -1,0 +1,731 @@
+[
+    {
+        "cat_id": "030",
+        "parent_cat_id": "003",
+        "name": "Audi",
+        "checkedStr": "Choose model",
+        "attr": "model"
+    },
+    {
+        "cat_id": "031",
+        "parent_cat_id": "003",
+        "checkedStr": "Choose model",
+        "name": "BMW"
+    },
+    {
+        "cat_id": "032",
+        "parent_cat_id": "003",
+        "checkedStr": "Choose model",
+        "name": "Ford"
+    },
+    {
+        "cat_id": "033",
+        "parent_cat_id": "003",
+        "checkedStr": "Choose model",
+        "name": "Holden"
+    },
+    {
+        "cat_id": "034",
+        "parent_cat_id": "003",
+        "checkedStr": "Choose model",
+        "name": "Hyundai"
+    },
+    {
+        "cat_id": "035",
+        "parent_cat_id": "003",
+        "checkedStr": "Choose model",
+        "name": "Kia"
+    },
+    {
+        "cat_id": "036",
+        "parent_cat_id": "003",
+        "checkedStr": "Choose model",
+        "name": "Mazda"
+    },
+    {
+        "cat_id": "037",
+        "parent_cat_id": "003",
+        "checkedStr": "Choose model",
+        "name": "Mercedes-Benz"
+    },
+    {
+        "cat_id": "038",
+        "parent_cat_id": "003",
+        "checkedStr": "Choose model",
+        "name": "Mitsubishi"
+    },
+    {
+        "cat_id": "039",
+        "parent_cat_id": "003",
+        "name": "Nissan"
+    },
+    {
+        "cat_id": "040",
+        "parent_cat_id": "003",
+        "name": "Subaru"
+    },
+    {
+        "cat_id": "041",
+        "parent_cat_id": "003",
+        "name": "Toyota"
+    },
+    {
+        "cat_id": "042",
+        "parent_cat_id": "003",
+        "name": "Abarth"
+    },
+    {
+        "cat_id": "043",
+        "parent_cat_id": "003",
+        "name": "AC"
+    },
+    {
+        "cat_id": "044",
+        "parent_cat_id": "003",
+        "name": "Alfa Romeo"
+    },
+    {
+        "cat_id": "045",
+        "parent_cat_id": "003",
+        "name": "Alpina"
+    },
+    {
+        "cat_id": "046",
+        "parent_cat_id": "003",
+        "name": "Alpina"
+    },
+    {
+        "cat_id": "047",
+        "parent_cat_id": "003",
+        "name": "Alpine-Renault"
+    },
+    {
+        "cat_id": "048",
+        "parent_cat_id": "003",
+        "name": "Alvis"
+    },
+    {
+        "cat_id": "0301",
+        "parent_cat_id": "030",
+        "name": "A1"
+    },
+    {
+        "cat_id": "0302",
+        "parent_cat_id": "030",
+        "name": "A2"
+    },
+    {
+        "cat_id": "0303",
+        "parent_cat_id": "030",
+        "name": "A3"
+    },
+    {
+        "cat_id": "0304",
+        "parent_cat_id": "030",
+        "name": "A4"
+    },
+    {
+        "cat_id": "0305",
+        "parent_cat_id": "030",
+        "name": "A5"
+    },
+    {
+        "cat_id": "0306",
+        "parent_cat_id": "030",
+        "name": "A6"
+    },
+    {
+        "cat_id": "0307",
+        "parent_cat_id": "030",
+        "name": "A7"
+    },
+    {
+        "cat_id": "0308",
+        "parent_cat_id": "030",
+        "name": "A8"
+    },
+    {
+        "cat_id": "0309",
+        "parent_cat_id": "030",
+        "name": "Cabriolet"
+    },
+    {
+        "cat_id": "03010",
+        "parent_cat_id": "030",
+        "name": "e-tron"
+    },
+    {
+        "cat_id": "03011",
+        "parent_cat_id": "030",
+        "name": "Fox"
+    },
+    {
+        "cat_id": "030101",
+        "parent_cat_id": "0301",
+        "name": "2021 MY2021"
+    },
+    {
+        "cat_id": "030102",
+        "parent_cat_id": "0301",
+        "name": "2021 Jul MY22"
+    },
+    {
+        "cat_id": "030103",
+        "parent_cat_id": "0301",
+        "name": "2020 MY20"
+    },
+    {
+        "cat_id": "030104",
+        "parent_cat_id": "0301",
+        "name": "2020 Jul MY21"
+    },
+    {
+        "cat_id": "030105",
+        "parent_cat_id": "0301",
+        "name": "2018 MY18"
+    },
+    {
+        "cat_id": "030106",
+        "parent_cat_id": "0301",
+        "name": "2017 May MY18"
+    },
+    {
+        "cat_id": "030107",
+        "parent_cat_id": "0301",
+        "name": "2017 MY17"
+    },
+    {
+        "cat_id": "030108",
+        "parent_cat_id": "0301",
+        "name": "2016 May MY17"
+    },
+    {
+        "cat_id": "030109",
+        "parent_cat_id": "0301",
+        "name": "2016 MY16"
+    },
+    {
+        "cat_id": "030110",
+        "parent_cat_id": "0301",
+        "name": "2015 May MY16"
+    },
+    {
+        "cat_id": "030111",
+        "parent_cat_id": "0301",
+        "name": "2015 MY14"
+    },
+    {
+        "cat_id": "030112",
+        "parent_cat_id": "0301",
+        "name": "2015 Feb MY15"
+    },
+    {
+        "cat_id": "030113",
+        "parent_cat_id": "0301",
+        "name": "2014 MY14"
+    },
+    {
+        "cat_id": "00401",
+        "parent_cat_id": "004",
+        "name": "SUV"
+    },
+    {
+        "cat_id": "00402",
+        "parent_cat_id": "004",
+        "name": "Sedan"
+    },
+    {
+        "cat_id": "00403",
+        "parent_cat_id": "004",
+        "name": "Wagon"
+    },
+    {
+        "cat_id": "00404",
+        "parent_cat_id": "004",
+        "name": "Hatch"
+    },
+    {
+        "cat_id": "00405",
+        "parent_cat_id": "004",
+        "name": "Coupe"
+    },
+    {
+        "cat_id": "00406",
+        "parent_cat_id": "004",
+        "name": "Convertible"
+    },
+    {
+        "cat_id": "00407",
+        "parent_cat_id": "004",
+        "name": "MPV"
+    },
+    {
+        "cat_id": "00408",
+        "parent_cat_id": "004",
+        "name": "Van"
+    },
+    {
+        "cat_id": "00409",
+        "parent_cat_id": "004",
+        "name": "Pickup truck"
+    },
+    {
+        "cat_id": "00410",
+        "parent_cat_id": "004",
+        "name": "Taxi"
+    },
+    {
+        "cat_id": "00412",
+        "parent_cat_id": "004",
+        "name": "Estate"
+    },
+    {
+        "cat_id": "00413",
+        "parent_cat_id": "004",
+        "name": "Hatchback"
+    },
+    {
+        "cat_id": "00411",
+        "parent_cat_id": "004-",
+        "name": "Others"
+    },
+    {
+        "cat_id": "0081",
+        "parent_cat_id": "008",
+        "name": "New"
+    },
+    {
+        "cat_id": "0082",
+        "parent_cat_id": "008",
+        "name": "Used"
+    },
+    {
+        "cat_id": "0083",
+        "parent_cat_id": "008",
+        "name": "Demo"
+    },
+    {
+        "cat_id": "0084",
+        "parent_cat_id": "008",
+        "name": "Authorised distributor"
+    },
+    {
+        "cat_id": "0091",
+        "parent_cat_id": "009",
+        "name": "Hong Kong Island",
+        "attr": "area"
+    },
+    {
+        "cat_id": "0092",
+        "parent_cat_id": "009",
+        "name": "Kowloon",
+        "attr": "area"
+    },
+    {
+        "cat_id": "0093",
+        "parent_cat_id": "009",
+        "name": "New Territories",
+        "attr": "area"
+    },
+    {
+        "cat_id": "0094",
+        "parent_cat_id": "009",
+        "name": "Island District",
+        "attr": "area"
+    },
+    {
+        "cat_id": "009101",
+        "parent_cat_id": "0091",
+        "name": "Western District"
+    },
+    {
+        "cat_id": "009102",
+        "parent_cat_id": "0091",
+        "name": "Sai Ying Pun"
+    },
+    {
+        "cat_id": "009103",
+        "parent_cat_id": "0091",
+        "name": "Kennedy Town"
+    },
+    {
+        "cat_id": "009104",
+        "parent_cat_id": "0091",
+        "name": "Sheung Wan"
+    },
+    {
+        "cat_id": "009105",
+        "parent_cat_id": "0091",
+        "name": "Central"
+    },
+    {
+        "cat_id": "009106",
+        "parent_cat_id": "0091",
+        "name": "Admiralty"
+    },
+    {
+        "cat_id": "009107",
+        "parent_cat_id": "0091",
+        "name": "Wan Chai"
+    },
+    {
+        "cat_id": "009108",
+        "parent_cat_id": "0091",
+        "name": "Causeway Bay"
+    },
+    {
+        "cat_id": "009109",
+        "parent_cat_id": "0091",
+        "name": "Tin Hau"
+    },
+    {
+        "cat_id": "009110",
+        "parent_cat_id": "0091",
+        "name": "Fortress Hill"
+    },
+    {
+        "cat_id": "009111",
+        "parent_cat_id": "0091",
+        "name": "North Point"
+    },
+    {
+        "cat_id": "009112",
+        "parent_cat_id": "0091",
+        "name": "Quarry Bay"
+    },
+    {
+        "cat_id": "009113",
+        "parent_cat_id": "0091",
+        "name": "Tai Koo"
+    },
+    {
+        "cat_id": "009114",
+        "parent_cat_id": "0091",
+        "name": "Sai Wan Ho"
+    },
+    {
+        "cat_id": "009115",
+        "parent_cat_id": "0091",
+        "name": "Chai Wan"
+    },
+    {
+        "cat_id": "009301",
+        "parent_cat_id": "0093",
+        "name": "Sha Tin"
+    },
+    {
+        "cat_id": "0121",
+        "parent_cat_id": "012",
+        "name": "Private"
+    },
+    {
+        "cat_id": "0122",
+        "parent_cat_id": "012",
+        "name": "Dealer"
+    },
+    {
+        "cat_id": "0123",
+        "parent_cat_id": "012",
+        "name": "Authorized distributor"
+    },
+    {
+        "cat_id": "0131",
+        "parent_cat_id": "013",
+        "name": "Test drive available"
+    },
+    {
+        "cat_id": "0132",
+        "parent_cat_id": "013",
+        "name": "Walk in available"
+    },
+    {
+        "cat_id": "0133",
+        "parent_cat_id": "013",
+        "name": "Appointment available"
+    },
+    {
+        "cat_id": "0134",
+        "parent_cat_id": "013",
+        "name": "Video tour available"
+    },
+    {
+        "cat_id": "0135",
+        "parent_cat_id": "013",
+        "name": "Finance available"
+    },
+    {
+        "cat_id": "0136",
+        "parent_cat_id": "013",
+        "name": "Price negotiable"
+    },
+    {
+        "cat_id": "0137",
+        "parent_cat_id": "013",
+        "name": "Certified dealer"
+    },
+    {
+        "cat_id": "01401",
+        "parent_cat_id": "014",
+        "name": "Black"
+    },
+    {
+        "cat_id": "01402",
+        "parent_cat_id": "014",
+        "name": "White"
+    },
+    {
+        "cat_id": "01403",
+        "parent_cat_id": "014",
+        "name": "Grey"
+    },
+    {
+        "cat_id": "01404",
+        "parent_cat_id": "014",
+        "name": "Silver"
+    },
+    {
+        "cat_id": "01405",
+        "parent_cat_id": "014",
+        "name": "Gold"
+    },
+    {
+        "cat_id": "01406",
+        "parent_cat_id": "014",
+        "name": "Red"
+    },
+    {
+        "cat_id": "01407",
+        "parent_cat_id": "014",
+        "name": "Orange"
+    },
+    {
+        "cat_id": "01408",
+        "parent_cat_id": "014",
+        "name": "Yellow"
+    },
+    {
+        "cat_id": "01409",
+        "parent_cat_id": "014",
+        "name": "Green"
+    },
+    {
+        "cat_id": "01410",
+        "parent_cat_id": "014",
+        "name": "Blue"
+    },
+    {
+        "cat_id": "01411",
+        "parent_cat_id": "014",
+        "name": "Purple"
+    },
+    {
+        "cat_id": "01412",
+        "parent_cat_id": "014",
+        "name": "Pink"
+    },
+    {
+        "cat_id": "01413",
+        "parent_cat_id": "014",
+        "name": "Brown"
+    },
+    {
+        "cat_id": "0171",
+        "parent_cat_id": "017",
+        "name": "Petrol"
+    },
+    {
+        "cat_id": "0172",
+        "parent_cat_id": "017",
+        "name": "Diesel"
+    },
+    {
+        "cat_id": "0173",
+        "parent_cat_id": "017",
+        "name": "Hybrid"
+    },
+    {
+        "cat_id": "0174",
+        "parent_cat_id": "017",
+        "name": "Electric"
+    },
+    {
+        "cat_id": "0175",
+        "parent_cat_id": "017",
+        "name": "Gas"
+    },
+    {
+        "cat_id": "0176",
+        "parent_cat_id": "017-",
+        "name": "Other"
+    },
+    {
+        "cat_id": "01901",
+        "parent_cat_id": "019",
+        "name": "1"
+    },
+    {
+        "cat_id": "01902",
+        "parent_cat_id": "019",
+        "name": "2"
+    },
+    {
+        "cat_id": "01903",
+        "parent_cat_id": "019",
+        "name": "3"
+    },
+    {
+        "cat_id": "01904",
+        "parent_cat_id": "019",
+        "name": "4"
+    },
+    {
+        "cat_id": "01905",
+        "parent_cat_id": "019",
+        "name": "5"
+    },
+    {
+        "cat_id": "01906",
+        "parent_cat_id": "019",
+        "name": "6"
+    },
+    {
+        "cat_id": "01907",
+        "parent_cat_id": "019",
+        "name": "8"
+    },
+    {
+        "cat_id": "01908",
+        "parent_cat_id": "019",
+        "name": "10"
+    },
+    {
+        "cat_id": "01909",
+        "parent_cat_id": "019",
+        "name": "12"
+    },
+    {
+        "cat_id": "01910",
+        "parent_cat_id": "019-",
+        "name": "Other"
+    },
+    {
+        "cat_id": "0201",
+        "parent_cat_id": "020",
+        "name": "Naturally aspirated"
+    },
+    {
+        "cat_id": "0202",
+        "parent_cat_id": "020",
+        "name": "Turbo"
+    },
+    {
+        "cat_id": "0203",
+        "parent_cat_id": "020",
+        "name": "Supercharged"
+    },
+    {
+        "cat_id": "0204",
+        "parent_cat_id": "020-",
+        "name": "Other"
+    },
+    {
+        "cat_id": "0211",
+        "parent_cat_id": "021",
+        "name": "Front wheel drive"
+    },
+    {
+        "cat_id": "0212",
+        "parent_cat_id": "021",
+        "name": "Rear wheel drive"
+    },
+    {
+        "cat_id": "0213",
+        "parent_cat_id": "021",
+        "name": "All wheel drive"
+    },
+    {
+        "cat_id": "0214",
+        "parent_cat_id": "021-",
+        "name": "Other"
+    },
+    {
+        "cat_id": "0221",
+        "parent_cat_id": "022",
+        "name": "Automatic transmission"
+    },
+    {
+        "cat_id": "0222",
+        "parent_cat_id": "022",
+        "name": "Manual transmission"
+    },
+    {
+        "cat_id": "0241",
+        "parent_cat_id": "024",
+        "name": "1"
+    },
+    {
+        "cat_id": "0242",
+        "parent_cat_id": "024",
+        "name": "2"
+    },
+    {
+        "cat_id": "0243",
+        "parent_cat_id": "024",
+        "name": "3"
+    },
+    {
+        "cat_id": "0244",
+        "parent_cat_id": "024-",
+        "name": "Other"
+    },
+    {
+        "cat_id": "0101",
+        "parent_cat_id": "010",
+        "name": "1"
+    },
+    {
+        "cat_id": "0101",
+        "parent_cat_id": "010",
+        "name": "2"
+    },
+    {
+        "cat_id": "0101",
+        "parent_cat_id": "010",
+        "name": "3"
+    },
+    {
+        "cat_id": "0101",
+        "parent_cat_id": "010",
+        "name": "4"
+    },
+    {
+        "cat_id": "0101",
+        "parent_cat_id": "010",
+        "name": "5"
+    },
+    {
+        "cat_id": "0101",
+        "parent_cat_id": "010",
+        "name": "none"
+    },
+    {
+        "cat_id": "0261",
+        "parent_cat_id": "026",
+        "name": "1"
+    },
+    {
+        "cat_id": "0261",
+        "parent_cat_id": "026",
+        "name": "2"
+    },
+    {
+        "cat_id": "0261",
+        "parent_cat_id": "026",
+        "name": "3"
+    },
+    {
+        "cat_id": "0261",
+        "parent_cat_id": "026",
+        "name": "4"
+    }
+]

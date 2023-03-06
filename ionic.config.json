@@ -1,0 +1,7 @@
+{
+  "name": "ionic-car-trading",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

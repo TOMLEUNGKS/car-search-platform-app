@@ -1,0 +1,216 @@
+[
+    {
+        "cat_id": "003",
+        "parent_cat_id": "000",
+        "name": "Makes",
+        "render": "SearchCarModelLayer",
+        "attr": "brand",
+        "special": [
+            {
+                "name": "Popular makes",
+                "children_cat": [
+                    "030",
+                    "031",
+                    "032",
+                    "033",
+                    "034",
+                    "035",
+                    "036",
+                    "037",
+                    "038",
+                    "039",
+                    "040",
+                    "041"
+                ]
+            }
+        ]
+    },
+    {
+        "cat_id": "004",
+        "parent_cat_id": "000",
+        "name": "Body type",
+        "icon": "CarSimple.svg",
+        "attr": "body-type"
+    },
+    {
+        "cat_id": "005",
+        "parent_cat_id": "000",
+        "name": "Year",
+        "render": "BasicPicker",
+        "icon": "CalendarBlank.svg",
+        "attr": "built_year"
+    },
+    {
+        "cat_id": "006",
+        "parent_cat_id": "000",
+        "name": "Mileage",
+        "render": "BasicPicker",
+        "icon": "gauge.svg",
+        "unit": "km",
+        "attr": "mileage"
+    },
+    {
+        "cat_id": "007",
+        "parent_cat_id": "000",
+        "render": "BasicPicker",
+        "name": "Price",
+        "icon": "CurrencyCircleDollar.svg",
+        "attr": "Listing Price"
+    },
+    {
+        "cat_id": "008",
+        "parent_cat_id": "004",
+        "name": "New/Used",
+        "icon": "Tag.svg",
+        "attr": "New/Used"
+    },
+    {
+        "cat_id": "009",
+        "parent_cat_id": "000",
+        "name": "Location",
+        "icon": "MapPin.svg",
+        "attr": "location",
+        "special": [
+            {
+                "name": "Area",
+                "children_cat": [
+                    "0091",
+                    "0092",
+                    "0093",
+                    "0094"
+                ]
+            }
+        ]
+    },
+    {
+        "cat_id": "010",
+        "parent_cat_id": "000",
+        "name": "Safety rating",
+        "icon": "Shield.svg",
+        "attr": "Safety Rating"
+    },
+    {
+        "cat_id": "012",
+        "parent_cat_id": "000",
+        "name": "Seller type",
+        "icon": "UserSquare.svg",
+        "attr": "Seller type"
+    },
+    {
+        "cat_id": "013",
+        "parent_cat_id": "000",
+        "name": "Services",
+        "icon": "Wrench.svg",
+        "attr": "services"
+    },
+    {
+        "cat_id": "014",
+        "parent_cat_id": "001",
+        "name": "Colour",
+        "icon": "PaintBrushBroad.svg",
+        "attr": "Exterior Colour"
+    },
+    {
+        "cat_id": "015",
+        "parent_cat_id": "001",
+        "render": "BasicPicker",
+        "name": "Seats",
+        "icon": "Armchair.svg",
+        "attr": "Seats"
+    },
+    {
+        "cat_id": "016",
+        "parent_cat_id": "001",
+        "render": "BasicPicker",
+        "name": "Doors",
+        "icon": "Door.svg",
+        "attr": "Doors"
+    },
+    {
+        "cat_id": "017",
+        "parent_cat_id": "002",
+        "name": "Fuel type",
+        "icon": "GasPump.svg",
+        "attr": "Fuel type"
+    },
+    {
+        "cat_id": "018",
+        "parent_cat_id": "002",
+        "name": "Engine size",
+        "icon": "Ruler.svg",
+        "attr": "Engine Size",
+        "render": "BasicPicker",
+        "unit": "cc"
+    },
+    {
+        "cat_id": "019",
+        "parent_cat_id": "002",
+        "name": "Cylinder",
+        "icon": "Cylinder.svg",
+        "attr": "Cylinder"
+    },
+    {
+        "cat_id": "020",
+        "parent_cat_id": "002",
+        "name": "Air induction",
+        "icon": "Wind.svg",
+        "attr": "Air Induction"
+    },
+    {
+        "cat_id": "021",
+        "parent_cat_id": "002",
+        "name": "Drivetrain",
+        "icon": "Car.svg",
+        "attr": "Drivetrain"
+    },
+    {
+        "cat_id": "022",
+        "parent_cat_id": "002",
+        "name": "Transmission",
+        "icon": "Gear.svg",
+        "attr": "transmission"
+    },
+    {
+        "cat_id": "023",
+        "parent_cat_id": "002",
+        "name": "Horsepower",
+        "icon": "Horsepower.svg",
+        "attr": "Horsepower",
+        "render": "BasicPicker",
+        "unit": "hp"
+    },
+    {
+        "cat_id": "024",
+        "parent_cat_id": "002",
+        "name": "Torque",
+        "icon": "GitDiff.svg",
+        "attr": "Torque",
+        "render": "BasicPicker",
+        "unit": "Nm"
+    },
+    {
+        "cat_id": "025",
+        "parent_cat_id": "002",
+        "name": "Power to weight ratio",
+        "icon": "Lightning.svg",
+        "attr": "Power to Weight Ratio",
+        "render": "BasicPicker",
+        "unit": "hp/t"
+    },
+    {
+        "cat_id": "026",
+        "parent_cat_id": "002",
+        "name": "Electric motor",
+        "icon": "BatteryChargingVertical.svg",
+        "attr": "Electric Motor"
+    },
+    {
+        "cat_id": "027",
+        "parent_cat_id": "002",
+        "name": "0-100 km/h",
+        "attr": "0-100 km/h",
+        "icon": "gauge.svg",
+        "render": "BasicPicker",
+        "unit": "s"
+    }
+]

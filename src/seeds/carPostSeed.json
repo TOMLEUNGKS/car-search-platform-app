@@ -1,0 +1,25 @@
+[
+    {
+        "post_id": "p0",
+        "Imgs": [
+            "blog1_car.png",
+            "blog2_car.png"
+        ],
+        "Name": "2021 Audi A1 35 TFSI Auto MY21000",
+        "carID": "c0",
+        "Listing Price": "599000",
+        "dealer": "CarAgent012",
+        "Factory options": "Customized message input by usersasdasdsad",
+        "Aftermarket options": "Customized message input by usersasdasdasd",
+        "Location": "Central",
+        "Odometer": "3.628",
+        "isRegister": "true",
+        "Expired Date": "10/02/2023",
+        "VIN number": "156165131513",
+        "Exterior Colour": "156165131513",
+        "Manufactor Listed Colour": "156165131513",
+        "Interior Colour": "156165131513",
+        "Comments": "Car is ready for sell anytime. Please contact me if you are interested.",
+        "datetimeCreate": "10/06/2022"
+    }
+]

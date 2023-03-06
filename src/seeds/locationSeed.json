@@ -1,0 +1,78 @@
+[
+    {
+        "name_en": "Hong Kong Island",
+        "name_tc": "香港島",
+        "name_sc":"香港岛",
+        "value": "HKI",
+        "children": [
+            { "name_en": "Western District", "name_tc": "西區", "name_sc": "西区", "value": "WD"},
+            { "name_en": "Sai Ying Pun", "name_tc": "西營盤", "name_sc": "西营盘", "value": "SYP"},
+            { "name_en": "Kennedy Town", "name_tc": "堅尼地城", "name_sc": "坚尼地城", "value": "KNT"},
+            { "name_en": "Sheung Wan", "name_tc": "上環", "name_sc": "上环", "value": "SW"},
+            { "name_en": "Central", "name_tc": "中環", "name_sc": "中环", "value": "CE"},
+            { "name_en": "Admiralty", "name_tc": "金鐘", "name_sc": "金钟", "value": "AD"},
+            { "name_en": "Wan Chai", "name_tc": "灣仔", "name_sc": "湾仔", "value": "WC"},
+            { "name_en": "Causeway Bay", "name_tc": "銅鑼灣", "name_sc": "铜锣湾", "value": "CWB"},
+            { "name_en": "Tin Hau", "name_tc": "天后", "name_sc": "天后", "value": "TH"},
+            { "name_en": "Fortress Hill", "name_tc": "炮台山", "name_sc": "炮台山", "value": "FH"},
+            { "name_en": "North Point", "name_tc": "北角", "name_sc": "北角", "value": "NP"},
+            { "name_en": "Quarry Bay", "name_tc": "鰂魚涌", "name_sc": "鲗鱼涌", "value": "QB"},
+            { "name_en": "Tai Koo", "name_tc": "太古", "name_sc": "太古", "value": "TK"},
+            { "name_en": "Sai Wan Ho", "name_tc": "西灣河", "name_sc": "西湾河", "value": "SWH"},
+            { "name_en": "Chai Wan", "name_tc": "柴灣", "name_sc": "柴湾", "value": "CW"}
+        ]
+    },
+    {
+        "name_en": "Kowloon",
+        "name_tc": "九龍",
+        "name_sc":"九龙",
+        "value": "KL",
+        "children": [
+            { "name_en": "Tsim Sha Tsui", "name_tc": "尖沙咀", "name_sc": "尖沙咀", "value": "TST"},
+            { "name_en": "Yau Ma Tei", "name_tc": "油麻地", "name_sc": "油麻地", "value": "YMT"},
+            { "name_en": "Mong Kok", "name_tc": "旺角", "name_sc": "旺角", "value": "MK"},
+            { "name_en": "Mei Foo", "name_tc": "美孚", "name_sc": "美孚", "value": "MF"},
+            { "name_en": "Lai Chi Kok", "name_tc": "荔枝角", "name_sc": "荔枝角", "value": "LCK"},
+            { "name_en": "Cheung Sha Wan", "name_tc": "長沙灣", "name_sc": "长沙湾", "value": "CSW"},
+            { "name_en": "Sham Shui Po", "name_tc": "深水埗", "name_sc": "深水埗", "value": "SSP"},
+            { "name_en": "Hung Hom", "name_tc": "紅磡", "name_sc": "红磡", "value": "HH"},
+            { "name_en": "To Kwa Wan", "name_tc": "土瓜灣", "name_sc": "土瓜湾", "value": "TKW"},
+            { "name_en": "Kowloon City", "name_tc": "九龍城", "name_sc": "九龙城", "value": "KC"},
+            { "name_en": "Kowloon Tong", "name_tc": "九龍塘", "name_sc": "九龙塘", "value": "KLT"},
+            { "name_en": "San Po Kong", "name_tc": "新蒲崗", "name_sc": "新蒲岗", "value": "SPK"},
+            { "name_en": "Wong Tai Sin", "name_tc": "黃大仙", "name_sc": "黄大仙", "value": "WTS"},
+            { "name_en": "Kowloon Bay", "name_tc": "九龍灣", "name_sc": "九龙湾", "value": "KB"},
+            { "name_en": "Kwun Tong", "name_tc": "觀塘", "name_sc": "观塘", "value": "KT"}
+        ]
+    },
+    {
+        "name_en": "New Territories",
+        "name_tc": "新界",
+        "name_sc":"新界",
+        "value": "NT",
+        "children": [
+            { "name_en": "Kwai Chung", "name_tc": "葵涌", "name_sc": "葵涌", "value": "KC"},
+            { "name_en": "Tsing Yi", "name_tc": "青衣", "name_sc": "青衣", "value": "TY"},
+            { "name_en": "Tsuen Wan", "name_tc": "荃灣", "name_sc": "荃湾", "value": "TW"},
+            { "name_en": "Tuen Mun", "name_tc": "屯門", "name_sc": "屯门", "value": "TM"},
+            { "name_en": "Yuen Long", "name_tc": "元朗", "name_sc": "元朗", "value": "YL"},
+            { "name_en": "Fanling", "name_tc": "粉嶺", "name_sc": "粉岭", "value": "FL"},
+            { "name_en": "Sheung Shui", "name_tc": "上水", "name_sc": "上水", "value": "SS"},
+            { "name_en": "Tai Po", "name_tc": "大埔", "name_sc": "大埔", "value": "TP"},
+            { "name_en": "Sha Tin", "name_tc": "沙田", "name_sc": "沙田", "value": "ST"},
+            { "name_en": "Sai Kung", "name_tc": "西貢", "name_sc": "西贡", "value": "SK"},
+            { "name_en": "Tseung Kwan O", "name_tc": "將軍澳", "name_sc": "将军澳", "value": "TKO"},
+            { "name_en": "Tung Chung", "name_tc": "東涌", "name_sc": "东涌", "value": "TC"}
+        ]
+    },
+    {
+        "name_en": "Island District",
+        "name_tc": "離島",
+        "name_sc":"离岛",
+        "value": "I",
+        "children": [
+            { "name_en": "Lamma Island", "name_tc": "南丫島", "name_sc": "南丫岛", "value": "LI"},
+            { "name_en": "Cheung Chau", "name_tc": "長洲", "name_sc": "长洲", "value": "CC"}
+        ]
+    }
+]
